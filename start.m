@@ -1,6 +1,6 @@
 % Milad Khademi Nori    95123012
 % A quantum-inspired gravitational search algorithm for binary encoded optimization problems
-% Tested bt Knapsack Problem
+% Tested by Knapsack Problem
 
 % Initialization
 % Observation
